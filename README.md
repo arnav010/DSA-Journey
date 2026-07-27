@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/arnav010/DSA-Journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/arnav010/DSA-Journey/tree/master/0189-rotate-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnav010/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/arnav010/DSA-Journey/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/arnav010/DSA-Journey/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
