@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/arnav010/DSA-Journey/tree/master/0189-rotate-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnav010/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnav010/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/arnav010/DSA-Journey/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/arnav010/DSA-Journey/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
