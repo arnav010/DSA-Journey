@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/arnav010/DSA-Journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/arnav010/DSA-Journey/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arnav010/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/arnav010/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnav010/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnav010/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/arnav010/DSA-Journey/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +35,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/arnav010/DSA-Journey/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
