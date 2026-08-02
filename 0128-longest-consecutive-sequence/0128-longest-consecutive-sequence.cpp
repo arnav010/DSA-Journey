@@ -1,6 +1,7 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
+        //optimal approach
       int n = nums.size();
      if (n==0) return 0;
      int longest = 1;
