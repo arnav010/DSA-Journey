@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arnav010/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/arnav010/DSA-Journey/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/arnav010/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnav010/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arnav010/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/arnav010/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/arnav010/DSA-Journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/arnav010/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/arnav010/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/arnav010/DSA-Journey/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/arnav010/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/arnav010/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
