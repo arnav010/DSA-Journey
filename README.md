@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/arnav010/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/arnav010/DSA-Journey/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/arnav010/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/arnav010/DSA-Journey/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnav010/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arnav010/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/arnav010/DSA-Journey/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/arnav010/DSA-Journey/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
