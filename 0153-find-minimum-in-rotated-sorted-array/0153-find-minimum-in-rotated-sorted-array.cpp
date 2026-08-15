@@ -7,7 +7,10 @@ public:
         int ans = INT_MAX;
         while(lo<=hi) {
             int mid = lo +(hi-lo)/2;
-
+            if(nums[lo]<=nums[hi]) {
+                ans = min(ans,nums[lo]);
+                break;
+            }
             if(nums[lo]<=nums[mid]) {
                 ans = min(ans,nums[lo]);//the minimum in a sorted array(either the left or the right) will be the the starting element of the sorted array
 
