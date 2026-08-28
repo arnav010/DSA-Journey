@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/arnav010/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/arnav010/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/arnav010/DSA-Journey/tree/master/0493-reverse-pairs) |
+| [0498-diagonal-traverse](https://github.com/arnav010/DSA-Journey/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/arnav010/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/arnav010/DSA-Journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arnav010/DSA-Journey/tree/master/0875-koko-eating-bananas) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/arnav010/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/arnav010/DSA-Journey/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/arnav010/DSA-Journey/tree/master/0498-diagonal-traverse) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arnav010/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/arnav010/DSA-Journey/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/arnav010/DSA-Journey/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/arnav010/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/arnav010/DSA-Journey/tree/master/0498-diagonal-traverse) |
 ## Prefix Sum
 |  |
 | ------- |
