@@ -261,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnav010/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/arnav010/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/arnav010/DSA-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
