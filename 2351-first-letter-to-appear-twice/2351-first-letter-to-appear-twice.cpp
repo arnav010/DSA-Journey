@@ -1,15 +1,17 @@
 class Solution {
 public:
     char repeatedCharacter(string s) {
-        unordered_map<char,int>mp;
+    vector<int>freq(26,0);
 
-        for(char ch:s) {
-            if(mp.find(ch)!=mp.end()){
-                return ch;
-                break;
-            }
-            mp[ch]++;
-        }
-        return ' ';
+    for(char ch: s) {
+        int index = ch-'a';
+
+        freq[index]++;
+
+        if(freq[index]==2) 
+        return ch;
+    
+    }
+    return ' ';
     }
 };
