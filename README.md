@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/arnav010/DSA-Journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arnav010/DSA-Journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/arnav010/DSA-Journey/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav010/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/arnav010/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/arnav010/DSA-Journey/tree/master/2351-first-letter-to-appear-twice) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arnav010/DSA-Journey/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/arnav010/DSA-Journey/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav010/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/arnav010/DSA-Journey/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/arnav010/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/arnav010/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/arnav010/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/arnav010/DSA-Journey/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/arnav010/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav010/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arnav010/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
