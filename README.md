@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/arnav010/DSA-Journey/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnav010/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/arnav010/DSA-Journey/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/arnav010/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/arnav010/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/arnav010/DSA-Journey/tree/master/0485-max-consecutive-ones) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/arnav010/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/arnav010/DSA-Journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/arnav010/DSA-Journey/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav010/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnav010/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arnav010/DSA-Journey/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/arnav010/DSA-Journey/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
