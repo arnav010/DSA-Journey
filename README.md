@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/arnav010/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arnav010/DSA-Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/arnav010/DSA-Journey/tree/master/0410-split-array-largest-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arnav010/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/arnav010/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/arnav010/DSA-Journey/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/arnav010/DSA-Journey/tree/master/0498-diagonal-traverse) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/arnav010/DSA-Journey/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav010/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arnav010/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnav010/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/arnav010/DSA-Journey/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnav010/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/arnav010/DSA-Journey/tree/master/0410-split-array-largest-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arnav010/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## String
 |  |
 | ------- |
