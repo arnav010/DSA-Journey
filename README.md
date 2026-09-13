@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/arnav010/DSA-Journey/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/arnav010/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/arnav010/DSA-Journey/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/arnav010/DSA-Journey/tree/master/0705-design-hashset) |
 | [0875-koko-eating-bananas](https://github.com/arnav010/DSA-Journey/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/arnav010/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arnav010/DSA-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/arnav010/DSA-Journey/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav010/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/arnav010/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/arnav010/DSA-Journey/tree/master/0705-design-hashset) |
 | [2351-first-letter-to-appear-twice](https://github.com/arnav010/DSA-Journey/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/arnav010/DSA-Journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0705-design-hashset](https://github.com/arnav010/DSA-Journey/tree/master/0705-design-hashset) |
 ## Randomized
 |  |
 | ------- |
@@ -349,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arnav010/DSA-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/arnav010/DSA-Journey/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/arnav010/DSA-Journey/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
