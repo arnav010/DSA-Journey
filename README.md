@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/arnav010/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/arnav010/DSA-Journey/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/arnav010/DSA-Journey/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/arnav010/DSA-Journey/tree/master/0706-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/arnav010/DSA-Journey/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/arnav010/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arnav010/DSA-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/arnav010/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/arnav010/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/arnav010/DSA-Journey/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/arnav010/DSA-Journey/tree/master/0706-design-hashmap) |
 | [2351-first-letter-to-appear-twice](https://github.com/arnav010/DSA-Journey/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/arnav010/DSA-Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/arnav010/DSA-Journey/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/arnav010/DSA-Journey/tree/master/0706-design-hashmap) |
 ## Randomized
 |  |
 | ------- |
@@ -356,8 +359,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/arnav010/DSA-Journey/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/arnav010/DSA-Journey/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/arnav010/DSA-Journey/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/arnav010/DSA-Journey/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
