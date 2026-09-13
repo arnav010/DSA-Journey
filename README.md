@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/arnav010/DSA-Journey/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/arnav010/DSA-Journey/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/arnav010/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arnav010/DSA-Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/arnav010/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arnav010/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/arnav010/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/arnav010/DSA-Journey/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/arnav010/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav010/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arnav010/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0912-sort-an-array](https://github.com/arnav010/DSA-Journey/tree/master/0912-sort-an-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/arnav010/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav010/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/arnav010/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arnav010/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/arnav010/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/arnav010/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/arnav010/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arnav010/DSA-Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/arnav010/DSA-Journey/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav010/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
@@ -183,12 +187,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/arnav010/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/arnav010/DSA-Journey/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnav010/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/arnav010/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/arnav010/DSA-Journey/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/arnav010/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arnav010/DSA-Journey/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/arnav010/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/arnav010/DSA-Journey/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav010/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/arnav010/DSA-Journey/tree/master/2351-first-letter-to-appear-twice) |
@@ -305,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/arnav010/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav010/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/arnav010/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Stack
@@ -381,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arnav010/DSA-Journey/tree/master/0075-sort-colors) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/arnav010/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
