@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/arnav010/DSA-Journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/arnav010/DSA-Journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/arnav010/DSA-Journey/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/arnav010/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/arnav010/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnav010/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/arnav010/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arnav010/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/arnav010/DSA-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/arnav010/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/arnav010/DSA-Journey/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/arnav010/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/arnav010/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/arnav010/DSA-Journey/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/arnav010/DSA-Journey/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/arnav010/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arnav010/DSA-Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/arnav010/DSA-Journey/tree/master/0383-ransom-note) |
