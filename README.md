@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/arnav010/DSA-Journey/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/arnav010/DSA-Journey/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/arnav010/DSA-Journey/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/arnav010/DSA-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/arnav010/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arnav010/DSA-Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/arnav010/DSA-Journey/tree/master/0410-split-array-largest-sum) |
@@ -238,12 +239,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/arnav010/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/arnav010/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arnav010/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/arnav010/DSA-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/arnav010/DSA-Journey/tree/master/0498-diagonal-traverse) |
 | [1901-find-a-peak-element-ii](https://github.com/arnav010/DSA-Journey/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arnav010/DSA-Journey/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/arnav010/DSA-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/arnav010/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/arnav010/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/arnav010/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/arnav010/DSA-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arnav010/DSA-Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/arnav010/DSA-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/arnav010/DSA-Journey/tree/master/0706-design-hashmap) |
